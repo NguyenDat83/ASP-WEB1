@@ -528,3 +528,4 @@ D:\thiet ke web 2\ASP-WEB\ASP-WEB1\BaiTap06\obj\Debug\net8.0\refint\BaiTap06.dll
 D:\thiet ke web 2\ASP-WEB\ASP-WEB1\BaiTap06\obj\Debug\net8.0\BaiTap06.pdb
 D:\thiet ke web 2\ASP-WEB\ASP-WEB1\BaiTap06\obj\Debug\net8.0\BaiTap06.genruntimeconfig.cache
 D:\thiet ke web 2\ASP-WEB\ASP-WEB1\BaiTap06\obj\Debug\net8.0\ref\BaiTap06.dll
+D:\thiet ke web 2\ASP-WEB\ASP-WEB1\BaiTap06\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout 2.cshtml.rz.scp.css

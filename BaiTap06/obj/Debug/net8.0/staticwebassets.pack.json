@@ -5,12 +5,120 @@
       "PackagePath": "staticwebassets\\BaiTap06.bundle.scp.css"
     },
     {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
       "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-img.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\envelope-white.png",
+      "PackagePath": "staticwebassets\\images\\envelope-white.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\facebook-logo.png",
+      "PackagePath": "staticwebassets\\images\\facebook-logo.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\healthy-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\healthy-bg.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\instagram-logo.png",
+      "PackagePath": "staticwebassets\\images\\instagram-logo.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\location-white.png",
+      "PackagePath": "staticwebassets\\images\\location-white.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\images\\t1.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\telephone-white.png",
+      "PackagePath": "staticwebassets\\images\\telephone-white.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\trainer-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\trainer-bg.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\u-1.png",
+      "PackagePath": "staticwebassets\\images\\u-1.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\u-2.png",
+      "PackagePath": "staticwebassets\\images\\u-2.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\u-3.png",
+      "PackagePath": "staticwebassets\\images\\u-3.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\u-4.png",
+      "PackagePath": "staticwebassets\\images\\u-4.png"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\images\\us-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\us-bg.jpg"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
       "Id": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTap06\\wwwroot\\js\\site.js",
