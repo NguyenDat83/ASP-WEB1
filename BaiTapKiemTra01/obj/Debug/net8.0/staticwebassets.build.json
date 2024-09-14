@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rxr7+W8/tWPql7KU662Fx9opGYJmqFdeaD+C6o1q6cs=",
+  "Hash": "UZQ+z5OFPDijCYxrwyOPfE/6gug7l+NUrg5D0+K0GFM=",
   "Source": "BaiTapKiemTra01",
   "BasePath": "_content/BaiTapKiemTra01",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\images\\anh chup\\Screenshot 2024-09-14 150219.png",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/anh chup/Screenshot 2024-09-14 150219.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\anh chup\\Screenshot 2024-09-14 150219.png"
     },
     {
       "Identity": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\images\\contact-img.jpg",
