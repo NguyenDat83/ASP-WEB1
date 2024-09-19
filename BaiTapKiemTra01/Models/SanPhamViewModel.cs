@@ -4,5 +4,6 @@
     {
         public string tensanpham {  get; set; }
         public string giaban { get; set; }
+        public string anhmota { get; set; }
     }
 }

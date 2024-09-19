@@ -3,18 +3,8 @@
     ViewData["Title"] = "BaiTap2";
 }
 @model SanPhamViewModel
-<div class=" container">
-    <h3>Đăng Kí</h3>
-    <form method="post">
-        <label asp-for="tensanpham">Tên sản phẩm:</label>
-        <input asp-for="tensanpham" type="text" class="form-control" />
-
-        <label asp-for="giaban">Giá Bán:</label>
-        <input asp-for="giaban" type="number" class="form-control" />
-
-        <button type="submit" class="btn btn-primary">Đăng Kí</button>
-    </form>
-    <hr />
-
-</div>
+<h2>Thong tin san pham</h2>
+<p>Ten san pham: @Model.tensanpham</p>
+<p>Gia ban: @Model.giaban</p>
+<img src="@Model.anhmota" alt="Anh mo ta san pham  " />
 

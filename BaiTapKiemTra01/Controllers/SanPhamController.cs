@@ -5,10 +5,16 @@ namespace BaiTapKiemTra01.Controllers
 {
     public class SanPhamController : Controller
     {
-        public IActionResult BaiTap2()
+        public IActionResult BaiTap2(SanPhamViewModel SanPham)
         {
-            var sanpham = new SanPhamViewModel();
-            return View();
+            var sanpham = new SanPhamViewModel()
+            {
+                tensanpham = "Dien Thoai",
+                giaban = "20.000.000",
+                anhmota= "/images/DienThoai.jpg"
+
+            };
+            return View(sanpham);
         }
     }
 }

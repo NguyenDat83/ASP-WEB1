@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UZQ+z5OFPDijCYxrwyOPfE/6gug7l+NUrg5D0+K0GFM=",
+  "Hash": "LCDn4LpinE6pdVZgDoGpuEguSIno7U7iRDfdqQiOYmE=",
   "Source": "BaiTapKiemTra01",
   "BasePath": "_content/BaiTapKiemTra01",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\contact-img.jpg"
+    },
+    {
+      "Identity": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\images\\DienThoai.jpg",
+      "SourceId": "BaiTapKiemTra01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\",
+      "BasePath": "_content/BaiTapKiemTra01",
+      "RelativePath": "images/DienThoai.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DienThoai.jpg"
     },
     {
       "Identity": "D:\\thiet ke web 2\\ASP-WEB\\ASP-WEB1\\BaiTapKiemTra01\\wwwroot\\images\\envelope-white.png",
