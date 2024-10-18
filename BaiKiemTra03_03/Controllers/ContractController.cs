@@ -14,8 +14,9 @@ namespace BaiKiemTra03_03.Controllers
 		}
 		public IActionResult Index()
         {
-			
-			return View();
+
+			IEnumerable<Contract> sanpham = _db.Contract.Include("TheLoai").ToList();
+			return View(sanpham);
 		}
     }
 }

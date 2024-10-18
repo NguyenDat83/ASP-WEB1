@@ -81,7 +81,7 @@ namespace BaiTap07.Controllers
 			}
 			_db.TheLoai.Remove(theloai);
 			_db.SaveChanges();
-			
+
 			return RedirectToAction("Index");
 		}
 		[HttpGet]
@@ -107,6 +107,27 @@ namespace BaiTap07.Controllers
 				return RedirectToAction("Index");
 			}
 			return View();
+		}
+		[HttpGet]
+
+		public IActionResult Search(string searchString)
+		{
+			if (!string.IsNullOrEmpty(searchString))
+			{
+				//Sử dụng LINQ để tìm kiếm
+				var theloai = _db.TheLoai.Where(tl => tl.Name.Contains(searchString)).ToList();
+
+				ViewBag.SearchString = searchString;
+				ViewBag.TheLoai = theloai;
+
+			}
+			else
+			{
+				var theloai = _db.TheLoai.ToList();
+				ViewBag.TheLoai = theloai;
+			}
+
+			return View("Index");//Sử dụng lại view INdex
 		}
 	}
 }
